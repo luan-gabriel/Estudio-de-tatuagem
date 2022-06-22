@@ -1,0 +1,52 @@
+body {
+    font-family: 'Tattoo Ink', sem serifa;
+    background-image: url(img/imagemDeFundo.jpg);
+}
+
+.container-fluid {
+    background-color: rgb(248, 244, 244);
+
+}
+
+.titulos {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.carousel {
+    width: 1000px;
+    left: 15%;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+
+.artes {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+.card-text {
+    color: rgb(2, 2, 2);
+}
+
+.card-img-top {
+    display: flex;
+    height: 500px;
+    padding: 20px;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    background-color: rgb(192, 238, 236);
+}
+
+.contatos {
+    padding: 20px;
+    background-color: black;
+}
